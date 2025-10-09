@@ -1,7 +1,12 @@
-h1 {
+h1 ,footer {
     text-align: center;
 }
 
-main p {
-    font-style: italic;
+header,footer {
+    font-style: italic; 
+    font-size: large;   
+}
+
+main {
+    font-style: oblique;
 }
