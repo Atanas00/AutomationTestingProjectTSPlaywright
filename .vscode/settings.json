@@ -1,0 +1,4 @@
+{
+    "typescript.preferences.useAliasesForRenames": true,
+    "typescript.inlayHints.variableTypes.enabled": true
+}
