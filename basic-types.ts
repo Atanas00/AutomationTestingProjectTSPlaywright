@@ -72,3 +72,6 @@ if (num3 <=10) {
 }else{
     console.log("numOne is not greater than 3")
 }
+
+
+
