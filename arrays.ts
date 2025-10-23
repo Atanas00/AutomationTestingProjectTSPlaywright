@@ -3,7 +3,7 @@ let strings: string[] = ["a", "b", "c", "d"];
 let mixed: (number | string)[] = [1, "a", 2, "b"];
 
 //access by index
-console.log(numbers[0]);
+console.log(numbers);
 console.log(numbers[1]);
 
 console.log(strings[0]);
